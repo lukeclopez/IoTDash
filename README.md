@@ -1,3 +1,5 @@
+## Challenge Instructions
+
 - Setup an AWS MQTT Broker
   - Pem file for creds to logon and publish/subscribe messages
 - Publish and subscirbe to a random topic using python
@@ -18,6 +20,8 @@ On the webserver:
 
 - Have a way to publish messages to both topics
 - Parse messages using Amazon SQS and show the parsed messages on the webserver.
+
+Example Messages:
 
 ```
 {
@@ -53,6 +57,8 @@ On the webserver:
 Look for open source solutions!
 
 This may take about nine hours.
+
+Optional:
 
 Show data over time using access to database.
 
