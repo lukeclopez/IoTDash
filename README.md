@@ -58,6 +58,10 @@ Look for open source solutions!
 
 This may take about nine hours.
 
+## Architecture
+
+![Diagram](system-diagram.png)
+
 Optional:
 
 Show data over time using access to database.
